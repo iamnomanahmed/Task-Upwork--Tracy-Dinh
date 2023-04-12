@@ -10,7 +10,7 @@ export default function SelectedServices({}: Props) {
       <h2 className="absolute h-[55px] w-[600px] font-bold left-[50px] right-[397px] top-[482px]   text-[40px] leading-[54px] tracking-[-0.3px] text-[#262626]">
         Selected Services
       </h2>
-      <div className="border-box absolute w-[650px] h-[240px] left-[50px] top-[577px] bg-[#FFFFFF] border border-gray-300 rounded-2xl">
+      <div className="border-box absolute w-[650px] h-[240px] left-[50px] top-[577px] bg-[#FFFFFF] border border-gray-300 rounded-2xl " >
         {/* IMAGE */}
         <img
           className="absolute w-[120px] h-[120px] left-[35px] top-[60px]"
